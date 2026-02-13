@@ -1,5 +1,6 @@
 # 💫 About Me:
-Software Developer<br>
+- Full-Stack Developer | MERN | Next.js  
+- Turning ideas into reliable web products.
 
 
 ## 🌐 Socials:
